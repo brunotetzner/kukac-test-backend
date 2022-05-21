@@ -1,4 +1,4 @@
-import { calculateSaleService } from "../services/sales.services";
+import { calculateSaleService } from "../services/sales.service";
 
 const calculateSaleController = (request, response) => {
   const { message, status } = calculateSaleService(request.body);
