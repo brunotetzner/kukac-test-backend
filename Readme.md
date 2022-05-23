@@ -12,7 +12,13 @@ Calculo de polindromos:
       initialValue: Um numero com o valor inicial da contagem(number)
       finalValue: Um numero com o valor onde a contagem terminara(number)
  
-  
+Calculo de vendas:
+  <Post> BASEURL/api/sales
+    
+    Parâmetros da rota:
+      saleValue: Valor da compra(number)
+      receivedValue: Valor entregue pelo cliente(number)  
+    
 Postagem de carros:
   <Post> BASEURL/api/automoveis/car
      
@@ -35,5 +41,7 @@ Postagem de carros:
       wheels: quantidade de rodas(number)
     
  Busca por cep:
-   <GET> https://viacep.com.br/ws/<digite o cep>/json/ 
+   <GET> https://viacep.com.br/ws/digite_seu_cep_aqui/json/ 
   
+Consuma a api juntamente com o front end => https://kukac-test-frontend-brunotetzner.vercel.app/
+  Observação: Não esqueça de baixar e rodar a api LOCALMENTE. 
