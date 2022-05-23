@@ -44,4 +44,8 @@ Postagem de carros:
    <GET> https://viacep.com.br/ws/digite_seu_cep_aqui/json/ 
   
 Consuma a api juntamente com o front end => https://kukac-test-frontend-brunotetzner.vercel.app/
-  Observação: Não esqueça de baixar e rodar a api LOCALMENTE. 
+    
+ Observação: Não esqueça de baixar e rodar a api LOCALMENTE. 
+ 
+     
+Repositório do front end => https://github.com/brunotetzner/kukac-test-frontend
