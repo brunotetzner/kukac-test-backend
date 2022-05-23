@@ -4,12 +4,13 @@ Back end do teste tecnico desenvolvido para a kukac.
 A aplicação esta rodando localmente na porta 5000.
 
 Rotas:
+
 Calculo de polindromos:
-<Post> BASEURL/api/palindromes
+  <Post> BASEURL/api/palindromes
   
-  Parâmetros da rota:
-    initialValue: Um numero com o valor inicial da contagem(number)
-    finalValue: Um numero com o valor onde a contagem terminara(number)
+    Parâmetros da rota:
+      initialValue: Um numero com o valor inicial da contagem(number)
+      finalValue: Um numero com o valor onde a contagem terminara(number)
  
   
 Postagem de carros:
