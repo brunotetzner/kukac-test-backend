@@ -11,7 +11,6 @@ const validateKeysMotorcicleMiddleware = (
     "peopleQuantity",
     "mark",
     "wheels",
-    "passengers",
   ];
 
   for (let i = 0; i < obrigatoryKeys.length; i++) {

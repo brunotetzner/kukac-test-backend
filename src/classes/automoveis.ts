@@ -37,19 +37,16 @@ class Carro extends Veiculo {
 
 class Moto extends Veiculo {
   wheels: number;
-  passengers: number;
 
   constructor(
     model: string,
     fabricationYear: Date,
     peopleQuantity: number,
     mark: string,
-    wheels: number = 2,
-    passengers: number = 1
+    wheels: number = 2
   ) {
     super(model, fabricationYear, peopleQuantity, mark);
     this.wheels = wheels;
-    this.passengers = passengers;
   }
 }
 

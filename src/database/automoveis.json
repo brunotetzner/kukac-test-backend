@@ -1,1 +1,16 @@
-[{"modelo":"Camaro","anoDeFabricação":2020,"quantidadeDePessoas":5,"marca":"chevrolet","numeroDePortas":4},{"modelo":"Prisma","anoDeFabricação":2022,"quantidadeDePessoas":5,"marca":"chevrolet","numeroDePortas":4},{"model":"OPALA","fabricationYear":1990,"peopleQuantity":5,"mark":"chevrolet","id":"9a643e5c-d565-4a36-b794-00c137ccfaea","portsQuantity":4},{"model":"magic","fabricationYear":"2022","peopleQuantity":2,"mark":"honda","id":"2e235817-762a-4c0f-9ee6-84b590db31a3","wheels":2,"passengers":2}]
+[
+  {
+    "modelo": "Camaro",
+    "anoDeFabricação": 2020,
+    "quantidadeDePessoas": 5,
+    "marca": "chevrolet",
+    "numeroDePortas": 4
+  },
+  {
+    "modelo": "Prisma",
+    "anoDeFabricação": 2022,
+    "quantidadeDePessoas": 5,
+    "marca": "chevrolet",
+    "numeroDePortas": 4
+  }
+]

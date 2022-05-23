@@ -14,6 +14,5 @@ interface IMoto {
   peopleQuantity: number;
   mark: string;
   wheels: number;
-  passengers: number;
 }
 export { ICar, IMoto };
